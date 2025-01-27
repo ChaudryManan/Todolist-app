@@ -1,0 +1,92 @@
+
+body{
+  background-color: black;
+}
+.todolist{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+gap: 20px;
+
+}
+.count-span{
+  color: blue;
+}
+input{
+
+ padding: 7px;
+  flex-basis: 40%;
+  border-radius: 5px;
+}
+.button{
+flex-basis: 40%;
+padding: 7px;
+border-radius: 5px;
+}
+.span{
+  display: flex;
+  align-items: center;
+  flex-basis: 20%;
+}
+.main{
+
+  margin-top: 30px;
+}
+.todo-main{
+ 
+  margin-top: 20px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.component-main{
+
+  border-radius: 3px;
+ 
+  width: 40%;
+margin-right: 21%;
+ background-color: rgb(54, 54, 245);
+
+ 
+}
+li{
+  color: wheat;
+  height: 10px;
+display: flex;
+align-items: center;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+.cross{
+ 
+  cursor: pointer;
+/* background-color: black; */
+color: white;
+font-size: 20px;
+width: 50px;
+/* height: 50px; */
+ 
+}
+.count{
+ color:  rgb(125, 240, 125);
+margin-top: 300px;
+display: flex;
+justify-content: center;
+margin-right: 20%;
+
+}
+.count h3{
+  
+  font-size: 1.3rem;
+}
+@media (max-width: 889px) {
+.button{
+  flex-basis: auto;
+}
+}
+
+
