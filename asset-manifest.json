@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChaudryManan/Todolist-app/static/css/main.baaec6fe.css",
-    "main.js": "/ChaudryManan/Todolist-app/static/js/main.db99bf92.js",
-    "static/js/453.37753ddd.chunk.js": "/ChaudryManan/Todolist-app/static/js/453.37753ddd.chunk.js",
-    "index.html": "/ChaudryManan/Todolist-app/index.html",
-    "main.baaec6fe.css.map": "/ChaudryManan/Todolist-app/static/css/main.baaec6fe.css.map",
-    "main.db99bf92.js.map": "/ChaudryManan/Todolist-app/static/js/main.db99bf92.js.map",
-    "453.37753ddd.chunk.js.map": "/ChaudryManan/Todolist-app/static/js/453.37753ddd.chunk.js.map"
+    "main.css": "/Todolist-appnpm%20run%20deploy/static/css/main.baaec6fe.css",
+    "main.js": "/Todolist-appnpm%20run%20deploy/static/js/main.a63c9411.js",
+    "static/js/453.37753ddd.chunk.js": "/Todolist-appnpm%20run%20deploy/static/js/453.37753ddd.chunk.js",
+    "index.html": "/Todolist-appnpm%20run%20deploy/index.html",
+    "main.baaec6fe.css.map": "/Todolist-appnpm%20run%20deploy/static/css/main.baaec6fe.css.map",
+    "main.a63c9411.js.map": "/Todolist-appnpm%20run%20deploy/static/js/main.a63c9411.js.map",
+    "453.37753ddd.chunk.js.map": "/Todolist-appnpm%20run%20deploy/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.baaec6fe.css",
-    "static/js/main.db99bf92.js"
+    "static/js/main.a63c9411.js"
   ]
 }
