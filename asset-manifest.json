@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChaudryManan/Todolist-app/static/css/main.f9462f2b.css",
+    "main.css": "/ChaudryManan/Todolist-app/static/css/main.baaec6fe.css",
     "main.js": "/ChaudryManan/Todolist-app/static/js/main.db99bf92.js",
     "static/js/453.37753ddd.chunk.js": "/ChaudryManan/Todolist-app/static/js/453.37753ddd.chunk.js",
     "index.html": "/ChaudryManan/Todolist-app/index.html",
-    "main.f9462f2b.css.map": "/ChaudryManan/Todolist-app/static/css/main.f9462f2b.css.map",
+    "main.baaec6fe.css.map": "/ChaudryManan/Todolist-app/static/css/main.baaec6fe.css.map",
     "main.db99bf92.js.map": "/ChaudryManan/Todolist-app/static/js/main.db99bf92.js.map",
     "453.37753ddd.chunk.js.map": "/ChaudryManan/Todolist-app/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9462f2b.css",
+    "static/css/main.baaec6fe.css",
     "static/js/main.db99bf92.js"
   ]
 }
